@@ -1,0 +1,13 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "main": "restServer.js",
+  "scripts": {
+    "start": "nodemon restServer"
+  },
+  "author": "jaeha",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
